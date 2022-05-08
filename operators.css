@@ -1,0 +1,134 @@
+body{
+  /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMVuK-_mRrNWm4_EMtc7rtxL9lEximjySx1hhGrrAj02Mx9LILOQuRvUnOwqRSMc5KiKg&usqp=CAU"); */
+  background-repeat: no-repeat;
+  background-size: 1920px 2080px; 
+  margin-left: 100px;
+  background-image: url("images/music_w.jpg");
+}
+
+h1{
+  position: absolute;
+  left: 450px;
+  font-family: sans-serif;
+  font-size: 50px;
+  color: rgb(37, 44, 44);
+  width: 400px;
+  font-weight: bolder;
+
+}
+h2{
+  font-family: Lucida Console;
+  color: red;
+}
+.h11{
+  /* background-color: rgb(160, 251, 237); */
+  
+    /* width: 100px;
+    height: 100px; */
+    background-color: red;
+    animation-name: example;
+    animation-duration: 4s;
+
+  
+  @keyframes example {
+    from {background-color: red;}
+    to {background-color: blue;}
+  }
+
+}
+
+.a1{
+  /* background-color: rgb(144, 254, 98); */
+  color: brown;
+  margin-left: 530px;
+  text-decoration: none;
+  border-style: double;
+  margin-bottom: 40px;
+  font-size: 30px;
+
+}
+.a1:hover{
+  background-color: red;
+  color: white;
+  text-decoration: double;
+}
+
+.d1{
+  border-style: dotted;
+  width: 700px;
+  margin-top: -220px;
+  margin-left: 320px;
+  margin-bottom: 90px;
+  color: rgb(2, 13, 75);
+  font-size: large;
+  background-color: rgb(185, 184, 186);
+  font-style: oblique;
+  height: 230px;
+}
+.d1:hover{
+  background-color: rgb(80, 153, 235);
+}
+.d2{
+  border-style: dotted;
+  width: 700px;
+  margin-top: -220px;
+  margin-left: 320px;
+  margin-bottom: 90px;
+  color: rgb(2, 13, 75);
+  font-size: large;
+  background-color: rgb(193, 193, 164);
+  font-style: oblique;
+  height: 230px;
+}
+
+.d2:hover{
+  background-color: rgb(152, 235, 80);
+}
+.d3{
+  border-style: dotted;
+  width: 700px;
+  margin-top: -220px;
+  margin-left: 320px;
+  margin-bottom: 90px;
+  color: rgb(2, 13, 75);
+  font-size: large;
+  background-color: rgb(129, 171, 171);
+  font-style: oblique;
+  height: 230px;
+}
+.d3:hover{
+  background-color: rgb(80, 235, 196);
+}
+.d4{
+  border-style: dotted;
+  width: 700px;
+  margin-top: -220px;
+  margin-left: 320px;
+  margin-bottom: 90px;
+  color: rgb(2, 13, 75);
+  font-size: large;
+  background-color: blanchedalmond;
+  font-style: oblique;
+  height: 230px;
+}
+.d4:hover{
+  background-color: rgb(80, 153, 235);
+}
+.d5{
+  border-style: dotted;
+  width: 700px;
+  margin-top: -220px;
+  margin-left: 320px;
+  margin-bottom: 90px;
+  color: rgb(2, 13, 75);
+  font-size: large;
+  background-color: bisque;
+  font-style: oblique;
+  height: 230px;
+}
+
+.d5:hover{
+  background-color: rgb(196, 80, 235);
+}
+
+

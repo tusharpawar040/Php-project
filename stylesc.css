@@ -1,0 +1,38 @@
+body{
+    /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX47PjN1jDMKvlg0mAr1KkxWOK_aLWOSk5QA&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: 100%; */
+   
+    background-color: rgb(127, 127, 127);
+
+}
+.co1{
+    background-color: rgb(205, 171, 50);
+    margin-top: 50px;
+   
+    height: 50%;
+    width: 50%;
+    text-shadow: 0ch;
+    margin-bottom: 100px;
+}
+.textarea{
+    width: 50px;
+    height: 50px;
+}
+.button{
+    background-color: tomato;
+    box-sizing: border-box;
+    border: rgb(50, 205, 130);
+    height: 28px;
+    width: 100px;
+    display: inline-block;
+}
+.button:hover{
+    background-color: aqua;
+}
+.div1{
+    border-style: double;
+    width: 600px;
+    background-color: rgb(66, 255, 151);
+
+}
